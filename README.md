@@ -73,6 +73,8 @@ Open a new terminal and run the following:
 
     choco install intellijidea-community
 
+You can verify that you have installed Intellij properly by searching for "Intellij" in your Windows search bar.
+
 #### Install Maven
 
 Open a new terminal and run the following:
