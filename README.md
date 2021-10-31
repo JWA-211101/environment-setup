@@ -67,13 +67,13 @@ Now verify that you have installed Java properly by typing this command:
      and 
      javac -version
 
-#### Step 4: Install IntelliJ
+#### Install IntelliJ
 
 Open a new terminal and run the following:
 
     choco install intellijidea-community
 
-#### Step 5: Install Maven
+#### Install Maven
 
 Open a new terminal and run the following:
 
@@ -83,7 +83,7 @@ Verify that your Maven installation was successful by typing the following:
 
     mvn -version
 
-#### Step 6: Install DBeaver
+#### Install DBeaver
 
 Open a new terminal and run the following:
 
@@ -91,7 +91,7 @@ Open a new terminal and run the following:
 
 You can verify that you have installed DBeaver properly by searching for "DBeaver" in your Windows search bar.
 
-#### Step 7: Install Apache Tomcat
+#### Install Apache Tomcat
 
 Open a new terminal and run the following:
 
@@ -107,7 +107,7 @@ If you are using a different terminal and the above doesn't work try:
 
 If the installation was successful, the directory to which you installed Tomcat should appear in the terminal.
 
-#### Step 8: Install Postman
+#### Install Postman
 
 Open a new terminal and run the following:
 
@@ -115,7 +115,7 @@ Open a new terminal and run the following:
 
 Verify that the program was installed properly by searching for "Postman" in your windows search bar.
 
-#### Step 9: Install Visual Studio Code
+#### Install Visual Studio Code
 
 Open a new terminal and run the following:
 
@@ -123,7 +123,7 @@ Open a new terminal and run the following:
 
 If the installation was successful, you should be able to search for "Visual Studio Code" in the Windows search bar.
 
-#### Step 10: Install Git
+#### Install Git
 
 Open a new terminal and run the following:
 
