@@ -5,8 +5,6 @@
 
 > This document provides a list of the required technologies for associates in Revature's Java Full Stack batch. It details why each technology is required and provides some step-by-step instructions on how to install and configure the technologies. This guide also walks you through any needed environment setup.
 
-**NOTE**: It is VERY important that you install these technologies before training begins as we will not have much time to devote to environment setup due to the volume of content we'll cover. It is also important that you install the correct versions of the tools listed here when they are specified (as opposed the latest versions) as not all versions of the technologies we will use are guaranteed to be compatible with each other. If you choose to use a different version of one of the tools listed here, you will be responsible for debugging issues that are specific to your version.
-
 ## Required Technologies
 
 The following technologies are required in order to complete this phase of the program:
